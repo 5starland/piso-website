@@ -165,15 +165,45 @@ To exercise any of these rights, please contact us at **contact@5starland.com**.
 
 
 
-## **13. AI Photo Processing & Facial Features**
+## **13. AI Photo & Video Processing and Face Data**
 
-When using AI Filter Lab’s photo filter feature:
+### **13.1 Uploaded Photos**
 
-- Your photo is uploaded temporarily for AI processing
-- The system may detect key facial points (e.g., eyes, nose, mouth) to apply the filter
-- We **do not** store or extract any biometric or facial recognition data
-- Photos are deleted automatically within 7 days or sooner
+- You may upload images and videos to use our editing or AI generation features.
+- To enable these features, the app requires access to your photo library and/or camera. You must explicitly grant this access through the system permission prompt on your device.
+- Uploaded images and videos, as well as generated AI content (such as enhanced or AI-stylized photos and videos), are processed securely on our servers.
 
+### **13.2 Face Data**
+
+- Uploaded photos and videos may contain face data, which refers to information estimating the location and shape of facial features (such as eyes, nose, mouth).
+- Depending on your jurisdiction, face data may be considered biometric data.
+- We use face data solely to apply filters, enhance photos and videos, or generate the AI content you request.
+- We do not process face data to identify or authenticate individuals, nor do we use it for any unrelated purpose.
+- Face data and uploaded content are not shared with or sold to any third parties, and are only processed on our secure servers to provide the requested AI features.
+
+### **13.3 Retention and Deletion**
+
+**Enhancement**
+
+- Uploaded images and videos, and enhanced outputs, are deleted within **1 day** after upload or enhancement.
+- Face data used for enhancement is deleted **immediately** after the enhancement is completed.
+
+**AI Generation**
+
+- Uploaded images and videos used for AI generation are retained for up to **7 days** (non-subscribers) or up to **20 days** (subscribers), counted from the most recent use of AI generation features.
+
+- Face data used for AI generation is also retained for the same period (7 or 20 days) to ensure the functioning of AI features, and is deleted afterwards.
+
+- AI-generated outputs are retained for up to **7 days** from generation.
+
+- In any case, uploaded content and related data will be permanently deleted within **2 years** from upload or generation, unless you provide explicit consent for longer retention.
+
+**Other Data** 
+
+- Other personal data (e.g., contact information, usage data) is retained for up to **3 years** from your most recent interaction with the app or from subscription expiration.
+- After this period, the data will be deleted or anonymized, unless required by law to retain longer.
+
+  
 
 
 ## **14. Advertising & SDKs**
